@@ -72,6 +72,7 @@ Tools for bypassing internet restrictions, deep packet inspection (DPI), and the
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) — Windows GUI for V2Ray/Xray/sing-box with subscription support.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) — Android client for V2Ray/Xray supporting VMess, VLESS, Shadowsocks, Trojan.
 - [proxysu/ProxySU](https://github.com/proxysu/ProxySU) — One-click Windows installer for Xray, V2Ray, Trojan, NaiveProxy, and more.
+- [tianrking/Espejismo](https://github.com/tianrking/Espejismo) — Native Rust encrypted tunnel that does not impersonate TLS/QUIC; masked metadata, dynamic handshake windows, one server binary + one client binary + one TOML.
 
 > 🔒 **Need ready-to-use Trojan or Shadowsocks proxies?** [anonymous-proxies.net](https://anonymous-proxies.net?utm_source=github&utm_medium=link&utm_campaign=awesome-proxy) provides dedicated Trojan, Shadowsocks, and Amnezia VPN connections — no server setup required.
 
