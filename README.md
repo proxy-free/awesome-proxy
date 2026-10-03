@@ -178,8 +178,7 @@ Frameworks and tools for web scraping that support proxy rotation — essential 
 ---
 
 ## Proxy Checkers & Validators
-
-Tools to test, validate, and benchmark proxy speed, anonymity, and geo-location.
+- Tools to test, validate, and benchmark proxy speed, anonymity, and geo-location.
 
 - [drsoft-oss/proxybench](https://github.com/drsoft-oss/proxybench) — Proxy checker and health monitor CLI — validate and benchmark HTTP, SOCKS5, and Shadowsocks proxies.
 - [fate0/proxypool](https://github.com/fate0/proxypool) — Automated proxy pool with collection, validation, and a REST API.
@@ -196,6 +195,8 @@ Auto-updated lists and scrapers for free public proxies. Note: free proxies are 
 - [hookzof/socks5_list](https://github.com/hookzof/socks5_list) — Constantly updated SOCKS5 proxy list with validation.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) — HTTP, SOCKS4, SOCKS5 proxies from multiple sources.
 - [sakha1370/OpenRay](https://github.com/sakha1370/OpenRay) — Large-scale proxy collection and validation pipeline.
+- [ProxyNest](https://proxynest.live) — Free proxy directory with live-tested HTTP, SOCKS4 and SOCKS5 proxies, no signup; free API and per-country lists included.
+- 
 
 ---
 
